@@ -34,3 +34,10 @@ Automated dashboard refreshes
 
 Presented insights to stakeholders or clients
 
+
+
+-----OUTPUT------------
+
+
+
+![Image](https://github.com/user-attachments/assets/9a2c93be-5412-430c-8b6d-dd5730f936c1)
